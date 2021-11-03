@@ -1,2 +1,2 @@
 # HackTheBubble2020Halloween
- Hackathon Project
+ Hackathon Project - A game made in Unity in less than 12 hours.
